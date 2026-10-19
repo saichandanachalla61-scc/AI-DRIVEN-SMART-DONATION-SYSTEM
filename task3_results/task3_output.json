@@ -1,0 +1,76 @@
+[
+  {
+    "image": "books.png",
+    "detections": [
+      {
+        "object": "book",
+        "confidence_percentage": 35.43,
+        "box": {
+          "x1": 212,
+          "y1": 7,
+          "x2": 682,
+          "y2": 166
+        }
+      }
+    ]
+  },
+  {
+    "image": "dress.jpg",
+    "detections": [
+      {
+        "object": "person",
+        "confidence_percentage": 45.92,
+        "box": {
+          "x1": 92,
+          "y1": 38,
+          "x2": 460,
+          "y2": 507
+        }
+      }
+    ]
+  },
+  {
+    "image": "folded clothes.png",
+    "detections": []
+  },
+  {
+    "image": "pants.png",
+    "detections": [
+      {
+        "object": "baseball glove",
+        "confidence_percentage": 47.46,
+        "box": {
+          "x1": 256,
+          "y1": 492,
+          "x2": 2299,
+          "y2": 1217
+        }
+      },
+      {
+        "object": "baseball glove",
+        "confidence_percentage": 34.4,
+        "box": {
+          "x1": 152,
+          "y1": 491,
+          "x2": 2325,
+          "y2": 2254
+        }
+      }
+    ]
+  },
+  {
+    "image": "t-shirt.jpg",
+    "detections": [
+      {
+        "object": "scissors",
+        "confidence_percentage": 83.94,
+        "box": {
+          "x1": 0,
+          "y1": 181,
+          "x2": 36,
+          "y2": 284
+        }
+      }
+    ]
+  }
+]

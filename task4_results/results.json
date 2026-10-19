@@ -1,0 +1,127 @@
+[
+    {
+        "image": "apples.jpg",
+        "models": {
+            "OWLv2": [
+                {
+                    "object": "apple",
+                    "quantity": 5,
+                    "confidence_percentage": 86.8
+                }
+            ],
+            "RT-DETR-L": [
+                {
+                    "object": "apple",
+                    "quantity": 5,
+                    "confidence_percentage": 94.88
+                }
+            ]
+        },
+        "annotated_image": "apples_detected.jpg"
+    },
+    {
+        "image": "bag.jpg",
+        "models": {
+            "OWLv2": [
+                {
+                    "object": "bag",
+                    "quantity": 1,
+                    "confidence_percentage": 60.28
+                }
+            ],
+            "RT-DETR-L": [
+                {
+                    "object": "handbag",
+                    "quantity": 1,
+                    "confidence_percentage": 95.96
+                }
+            ]
+        },
+        "annotated_image": "bag_detected.jpg"
+    },
+    {
+        "image": "books.png",
+        "models": {
+            "OWLv2": [
+                {
+                    "object": "book",
+                    "quantity": 19,
+                    "confidence_percentage": 25.31
+                }
+            ],
+            "RT-DETR-L": [
+                {
+                    "object": "book",
+                    "quantity": 5,
+                    "confidence_percentage": 81.39
+                }
+            ]
+        },
+        "annotated_image": "books_detected.jpg"
+    },
+    {
+        "image": "bottles.jpg",
+        "models": {
+            "OWLv2": [
+                {
+                    "object": "bottle",
+                    "quantity": 6,
+                    "confidence_percentage": 37.57
+                }
+            ],
+            "RT-DETR-L": [
+                {
+                    "object": "bottle",
+                    "quantity": 3,
+                    "confidence_percentage": 95.86
+                }
+            ]
+        },
+        "annotated_image": "bottles_detected.jpg"
+    },
+    {
+        "image": "chairs.jpg",
+        "models": {
+            "OWLv2": [
+                {
+                    "object": "chair",
+                    "quantity": 8,
+                    "confidence_percentage": 40.36
+                }
+            ],
+            "RT-DETR-L": [
+                {
+                    "object": "chair",
+                    "quantity": 5,
+                    "confidence_percentage": 96.19
+                }
+            ]
+        },
+        "annotated_image": "chairs_detected.jpg"
+    },
+    {
+        "image": "laptop.jpg",
+        "models": {
+            "OWLv2": [
+                {
+                    "object": "laptop",
+                    "quantity": 1,
+                    "confidence_percentage": 77.41
+                }
+            ],
+            "RT-DETR-L": [
+                {
+                    "object": "keyboard",
+                    "quantity": 1,
+                    "confidence_percentage": 36.1
+                },
+                {
+                    "object": "laptop",
+                    "quantity": 1,
+                    "confidence_percentage": 97.35
+                }
+            ]
+        },
+        "annotated_image": "laptop_detected.jpg"
+    }
+]

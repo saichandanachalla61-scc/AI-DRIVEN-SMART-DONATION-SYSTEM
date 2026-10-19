@@ -1,0 +1,87 @@
+[
+    {
+        "image": "bag.jpg",
+        "objects": [
+            {
+                "object": "handbag",
+                "quantity": 1,
+                "confidence_percentage": [
+                    92.08
+                ]
+            }
+        ]
+    },
+    {
+        "image": "books.png",
+        "objects": [
+            {
+                "object": "book",
+                "quantity": 4,
+                "confidence_percentage": [
+                    94.26,
+                    92.03,
+                    90.77,
+                    85.8
+                ]
+            }
+        ]
+    },
+    {
+        "image": "bottles.jpg",
+        "objects": [
+            {
+                "object": "bottle",
+                "quantity": 3,
+                "confidence_percentage": [
+                    52.07,
+                    45.07,
+                    42.88
+                ]
+            }
+        ]
+    },
+    {
+        "image": "chairs.jpg",
+        "objects": [
+            {
+                "object": "chair",
+                "quantity": 5,
+                "confidence_percentage": [
+                    95.87,
+                    95.04,
+                    95.01,
+                    94.34,
+                    93.53
+                ]
+            }
+        ]
+    },
+    {
+        "image": "laptop.jpg",
+        "objects": [
+            {
+                "object": "laptop",
+                "quantity": 1,
+                "confidence_percentage": [
+                    91.56
+                ]
+            }
+        ]
+    },
+    {
+        "image": "apples.jpg",
+        "objects": [
+            {
+                "object": "apple",
+                "quantity": 5,
+                "confidence_percentage": [
+                    82.22,
+                    78.59,
+                    69.97,
+                    68.57,
+                    65.45
+                ]
+            }
+        ]
+    }
+]

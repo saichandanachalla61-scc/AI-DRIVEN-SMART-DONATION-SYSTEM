@@ -1,0 +1,16 @@
+[
+  {
+    "image": "image (1).png",
+    "objects": []
+  },
+  {
+    "image": "image.png",
+    "objects": [
+      {
+        "object": "book",
+        "quantity": 1,
+        "confidence_percentage": 35.43
+      }
+    ]
+  }
+]
